@@ -5,7 +5,6 @@ import os
 import time
 from typing import List, Tuple
 from dataclasses import dataclass
-from git import Repo
 from datetime import datetime
 from dotenv import load_dotenv
 from logger import logger
