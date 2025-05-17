@@ -152,6 +152,3 @@ This project uses modern Python tooling:
 - `uv` for fast dependency management
 - `.env.sample` for environment variable documentation
 - Type hints for better code maintainability
-
----
-**Topics**: `python` `github` `git` `api` `logging` `file-tracking` `automation` `uv` `python3.13` `github-api` `file-management` `commit-history` `repository-tools`
